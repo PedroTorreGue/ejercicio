@@ -1,0 +1,9 @@
+#Ignoramos los archivos class
+*.class
+
+#Ignoramos los archivos de editor
+~
+*.swp
+
+#Ignoramos carpeta doc
+/doc/
